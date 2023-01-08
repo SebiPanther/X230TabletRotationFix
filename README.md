@@ -1,2 +1,6 @@
 # X230TabletRotationFix
-This script fixes the issues that the the screen rotation hardware button works with Ubuntu Mate 22.10, but the orientation of the integrated wacom touch and pen device does not rotate with the display. You can use a custom Shortcut to enable this script. It will identify the current display orientation and will rotate the wacom devices accordently
+This script fixes a issue on the Lenovo Thinkpad X230 Tablet with Ubuntu Mate (22.10).
+If you use the hardware button to rotate the screen, the screen rotates but the pen and touch device keeps it current orientation.
+This script will identify the current orientation of the screen and rotates the pen and touch device accordently.
+You can use a custom shortcut to fire that script every time this hardware button is pressed.
+Have fun this still awesome machine! :D
